@@ -1,0 +1,1 @@
+export type AdditionalPropertyType = "string" | "area" | "money" | "checkbox" | "select";
